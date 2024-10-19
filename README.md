@@ -1,6 +1,6 @@
-# ConstructionDB
+# Construction Database 
 
-ConstructionDB is a database designed to manage various aspects of construction projects, including project details, contractors, managers, workers, and inspections. The database helps streamline the management of construction projects by providing a centralized system to store and access project-related data.
+Construction Database is a database designed to manage various aspects of construction projects, including project details, contractors, managers, workers, and inspections. The database helps streamline the management of construction projects by providing a centralized system to store and access project-related data.
 
 ## ERD 
 
